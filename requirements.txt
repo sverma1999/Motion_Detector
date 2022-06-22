@@ -2,7 +2,7 @@ bokeh==2.1.1
 DateTime==4.3
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-numpy==1.19.1
+numpy==1.22.0
 opencv-python==4.3.0.36
 packaging==20.4
 pandas==1.0.5
